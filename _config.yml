@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Wonderful World Studios
+        title: Wonderful World Studios LLC
         link: wonderfulworldstudios.com
         # link_text: Project Website
         additional_links:
