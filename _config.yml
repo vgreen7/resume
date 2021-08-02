@@ -41,8 +41,8 @@ instagram_username: v.green_04
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-google_analytics: G-WW4P8T9DQJ
+gtag: "G-WW4P8T9DQJ"
+# google_analytics: G-WW4P8T9DQJ
 
 # ga_tracking: G-WW4P8T9DQJ
 # ga_tracking_anonymize_ip: true
