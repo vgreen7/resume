@@ -52,7 +52,7 @@ gtag: "G-WW4P8T9DQJ"
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I have a broad range of technical skills including video editing, photoshop image editing, Google Search Engine Optimization, social media management, website development, and software development. I am familiar with HTML and CSS,  as well as the Lua scripting language. I have basic experience with Java, JavaScript, and Python.
+  I have a broad range of technical skills including video editing, Photoshop image editing, Google Search Engine Optimization, social media management, website development, and software development. I am familiar with HTML and CSS,  as well as the Lua scripting language. I have basic experience with Java, JavaScript, and Python.
 
   I am a great people person, always eager to engage with and work with others. This plays into my leadership ability and ability to work with others.
 
@@ -76,12 +76,21 @@ content:
         quote: >
           Changing the way people view gaming...
         description: | # this will include new lines to allow paragraphs
-          I am currently developing a video game app and I manage a team of 3 associates. I am using the Defold engine and coding in Lua.
+          I am currently developing a video game app and I manage a team of 2 associates. I am using the Defold engine and coding in Lua.
       
+          - Manage a team of 2 other associates across a broad spectrum of industries (art/ graphics, music).
+          - Utilized project management programs to streamline communication and heighten convenience and productivity.
+          - Conduct meetings and checkups with my team to insure high levels of productivity and success.
+          - Program using Lua in the Defold engine. 
+          - Collaborated with Defold community members to solve bugs and errors in code.  
       - layout: top-middle
         title: Passion Project
         description: |
-          For my school passion project, I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scrath. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks.         
+          For my school passion project, I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scratch. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks. 
+
+          - Collaborated with team to develop extensive and concise curriculum for target audience.
+          - Worked closely with team members and teachers to coordinate class schedule.     
+
           
 
   - title: Experience # Title for the section
@@ -94,8 +103,12 @@ content:
         sub_title: Engineering Intern
         caption: June 2021 - Present
         description: | # this will include new lines to allow paragraphs
-            I worked with a team of interns in the development of the [SNOWiQ](https://docs.snowiq.net/) documentation site, a site containing documentation for SNOWiQ, a snowplow fleet mapping app.
+            I worked with a team of interns in the development of the [SNOWiQ documentation site](https://docs.snowiq.net/), a site containing documentation for [SNOWiQ](https://eastbanctech.com/products/snowiq/), a snowplow fleet mapping app.
 
+            - Collaborated with other interns and management to effectivity accomplish tasks. These tasks would then be published to live, client ready products.
+            - Learned about GitHub workflow as well as how to use GitHub to its fullest potential through a 6 hour online course.
+            - Learned about Docker and Kubernetes through a 3 hour online course.
+            - Learned how to develop static sites using Jekyll, and deploying them through GitHub pages.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -116,8 +129,9 @@ content:
       Alongside my interests in technology and software development, some of my other interests and hobbies are:
       - Baseball
       - Running Track
-      - Gaming
       - Photography
+      - Gaming
+      
 
       
 
