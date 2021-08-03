@@ -62,7 +62,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Wonderful World Studios LLC
         link: wonderfulworldstudios.com
         # link_text: Project Website
@@ -83,7 +83,7 @@ content:
           - Conduct meetings and checkups with my team to insure high levels of productivity and success.
           - Program using Lua in the Defold engine. 
           - Collaborated with Defold community members to solve bugs and errors in code.  
-      - layout: top-middle
+      - layout: left
         title: Passion Project
         description: |
           For my school passion project, I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scratch. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks. 
