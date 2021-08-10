@@ -78,11 +78,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am currently developing a video game app and I manage a team of 2 associates. I am using the Defold engine and coding in Lua.
       
-          - Manage a team of 2 other associates across a broad spectrum of industries (art/ graphics, music).
-          - Utilized project management programs to streamline communication and heighten convenience and productivity.
+          - Manage a team of 2 associates across a broad spectrum of industries (art/ graphics, music).
+          - Utilize project management programs to streamline communication and heighten convenience and productivity.
           - Conduct meetings and checkups with my team to insure high levels of productivity and success.
           - Program using Lua in the Defold engine. 
-          - Collaborated with Defold community members to solve bugs and errors in code.  
+          - Collaborate with Defold community members to solve bugs and errors in code.  
       - layout: left
         title: Passion Project
         description: |
