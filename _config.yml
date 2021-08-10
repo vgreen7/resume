@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a great people person, always eager to engage with and work with others. This plays into my leadership ability and ability to work with others.
 
- # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
 
 content:
   - title: Projects # Title for the section
