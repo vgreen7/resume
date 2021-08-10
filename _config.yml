@@ -51,13 +51,8 @@ gtag: "G-WW4P8T9DQJ"
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-
   I have a broad range of technical skills including video editing, Photoshop image editing, Google Search Engine Optimization, social media management, website development, and software development. I am familiar with HTML and CSS,  as well as the Lua scripting language. I have basic experience with Java, JavaScript, and Python.
-
   I am a great people person, always eager to engage with and work with others. This plays into my leadership ability and ability to work with others.
-
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,12 +82,9 @@ content:
         title: Passion Project
         description: |
           For my school passion project, I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scratch. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks. 
-
           - Collaborated with team to develop extensive and concise curriculum for target audience.
           - Worked closely with team members and teachers to coordinate class schedule.     
-
           
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -104,11 +96,26 @@ content:
         caption: June 2021 - Present
         description: | # this will include new lines to allow paragraphs
             I worked with a team of interns in the development of the [SNOWiQ documentation site](https://docs.snowiq.net/), a site containing documentation for [SNOWiQ](https://eastbanctech.com/products/snowiq/), a snowplow fleet mapping app.
-
-            - Collaborated with other interns and management to effectivity accomplish tasks. These tasks would then be published to live, client ready products.
+            - Collaborated with other interns and management to effectively accomplish tasks. These tasks would then be published to live, client ready products.
             - Learned about GitHub workflow as well as how to use GitHub to its fullest potential through a 8 hour online course.
             - Learned about Docker and Kubernetes through a 3 hour online course.
             - Learned how to develop static sites using Jekyll, and deploying them through GitHub pages.
+
+  - title: Skills
+    layout: list 
+    content:
+      - layout: left
+        title: Github
+        description: | # this will include new lines to allow paragraphs
+           Skilled with the use of Git and Github to effectively collaborate with others.
+      - layout: left
+        title: Docker
+        description: | # this will include new lines to allow paragraphs
+           Basic knowledge of Docker. (Creating images, running containers, etc.)
+
+    
+
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -123,6 +130,13 @@ content:
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+  - title: Awards
+    layout: list
+    content:
+      - layout: left
+        title: CapitalOne Coders
+        description: Most user-friendly app
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -132,9 +146,7 @@ content:
       - Photography
       - Gaming
       
-
       
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
