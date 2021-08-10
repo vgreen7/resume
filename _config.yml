@@ -9,7 +9,8 @@ version: 2
 name: Vishal Green
 title: Student and Software Engineer Intern
 email: vgreen_7@yahoo.com
-website: https://vgreen7.github.io/resume/
+
+#website: https://vgreen7.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,7 +32,7 @@ instagram_username: v.green_04
 
 # Additional icon links
 #additional_links:
-#- title: itsgoingto.be
+#- title: Full Resume
   #icon: fas fa-globe
   #url: https://www.itsgoingto.be
 # - title: another link
@@ -49,10 +50,13 @@ gtag: "G-WW4P8T9DQJ"
 
 # About Section
 # about_title: About Me
+
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I have a broad range of technical skills including video editing, Photoshop image editing, Google Search Engine Optimization, social media management, website development, and software development. I am familiar with HTML and CSS,  as well as the Lua scripting language. I have basic experience with Java, JavaScript, and Python.
   I am a great people person, always eager to engage with and work with others. This plays into my leadership ability and ability to work with others.
+
+  Full resume can be found [here.](https://docs.google.com/document/d/1qBGTssTIMYMtc9DKNrsOLRTEwGAyuj5Ia19Dp0erEpw/edit?usp=sharing)
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
