@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   I have a broad range of technical skills including video editing, Photoshop image editing, Google Search Engine Optimization, social media management, website development, and software development. I am familiar with HTML and CSS,  as well as the Lua scripting language. I have basic experience with Java, JavaScript, and Python.
   I am a great people person, always eager to engage with and work with others. This plays into my leadership ability and ability to work with others.
 
-  Full resume can be found [here.](https://docs.google.com/document/d/1qBGTssTIMYMtc9DKNrsOLRTEwGAyuj5Ia19Dp0erEpw/edit?usp=sharing)
+  Full resume can be found [here.](https://drive.google.com/file/d/1TTotnR2YkEuWSW5RSNgP-aEXqm8W9WWR/view?usp=sharing)
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,7 +75,7 @@ content:
         quote: >
           Changing the way people view gaming...
         description: | # this will include new lines to allow paragraphs
-          I am currently developing a video game app and I manage a team of 2 associates. I am using the Defold engine and coding in Lua.
+          I worked on developing a video game app where I managed a team of 2 associates. I used the Defold engine and coded in Lua.
       
           - Manage a team of 2 associates across a broad spectrum of industries (art/ graphics, music).
           - Utilize project management programs to streamline communication and heighten convenience and productivity.
@@ -83,9 +83,9 @@ content:
           - Program using Lua in the Defold engine. 
           - Collaborate with Defold community members to solve bugs and errors in code.  
       - layout: left
-        title: Passion Project
+        title: Code Tutoring
         description: |
-          For my school passion project, I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scratch. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks. 
+          I worked with a team of 2 others to develop an 8 week curriculum targeted for 6th grade students to teach them the basics of coding using scratch. After developing the curriculum, we executing it by working with a 6th grade class once a week for 8 weeks. 
           - Collaborated with team to develop extensive and concise curriculum for target audience.
           - Worked closely with team members and teachers to coordinate class schedule.     
           
@@ -125,8 +125,12 @@ content:
     content:
       - layout: left
         title: West Springfield High School
-        caption: 2019 - Present
-        #sub_title: BSc Computer Science
+        caption: 2019 - 2023
+        
+      - layout: left
+        title: virginia Polytechnic Institute and State University
+        caption: 2023 - Present  
+        sub_title: BSc Computer Science
         #quote: >
          # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         #description: | # this will include new lines to allow paragraphs
